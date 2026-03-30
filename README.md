@@ -25,5 +25,15 @@ Para fines de demostración, el sistema incluye usuarios predefinidos:
 1. Abrir el proyecto en NetBeans
 2. Ejecutar la clase principal
 
+## Vista del sistema
+
+### Inicio de sesión
+Pantalla inicial para autenticación de usuarios.
+![Login](login.png)
+
+### Registro de participantes
+Formulario para captura y gestión de información de los participantes.
+![Registro](participant-registration.png)
+
 ## Autor
 Andrik Josué Ruiz Cortés
