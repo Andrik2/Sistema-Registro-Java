@@ -29,7 +29,7 @@ Para fines de demostración, el sistema incluye usuarios predefinidos:
 
 ### Inicio de sesión
 Pantalla inicial para autenticación de usuarios.
-![Login](Login.jpe
+![Login](Login.jpeg)
 
 ### Registro de participantes
 Formulario para captura y gestión de información de los participantes.
